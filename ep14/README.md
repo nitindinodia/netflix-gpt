@@ -1,5 +1,10 @@
 # Netflix GPT
 
+-- react tsx tailcss set up
+-- header
+-- login form
+-- sign up form
+
 // features:
 
 -- login sign up page
