@@ -2,8 +2,11 @@
 
 -- react tsx tailcss set up
 -- header
+-- routing
 -- login form
 -- sign up form
+-- form validation
+-- useRef hook
 
 // features:
 
